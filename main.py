@@ -2,8 +2,8 @@ import discord
 import youtube_dl
 from discord.ext import commands
 
-TOKEN = 'OAUTH'
-client = commands.Bot(command_prefix = 'PREFIX_HERE')
+TOKEN = 'NjQxNDA5MzIwODA1OTkwNDA0.XcH9Bg.tmdfcMpbTylD41iQh0fTASlSVIo'
+client = commands.Bot(command_prefix = '~')
 
 players = {}
 queues = {}
